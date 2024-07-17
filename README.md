@@ -1,6 +1,7 @@
 # 💫 About Me:
 Jack of all trades, master of some.
 
+[![](https://visitcount.itsvg.in/api?id=Anshdeep-Singh&icon=5&color=9)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshdeep_singh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshdeepsingh369) 
@@ -13,13 +14,10 @@ Jack of all trades, master of some.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Anshdeep-Singh&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anshdeep-Singh&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshdeep-Singh&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshdeep-Singh&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anshdeep-Singh&limit=7&theme=tokyonight&combine_all_yearly_contributions=true&count_private=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Anshdeep-Singh&icon=5&color=9)](https://visitcount.itsvg.in)
+![](https://github-contributor-stats.vercel.app/api?username=Anshdeep-Singh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&count_private=true)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anshdeep) 
