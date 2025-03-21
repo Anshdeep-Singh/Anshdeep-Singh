@@ -1,5 +1,3 @@
-# 💫 About Me:
-Jack of all trades, master of some.
 
 [![](https://visitcount.itsvg.in/api?id=Anshdeep-Singh&icon=5&color=9)](https://visitcount.itsvg.in)
 
