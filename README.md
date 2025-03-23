@@ -7,10 +7,10 @@
 
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshdeep-Singh&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Anshdeep-Singh&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
-    <img src="https://github-contributor-stats.vercel.app/api?username=Anshdeep-Singh&limit=3&theme=dracula&combine_all_yearly_contributions=true&count_private=true&hide_border=true" height="200" alt="Contribution stat"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anshdeep-Singh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anshdeep-Singh&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="180" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Anshdeep-Singh&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="180" alt="streak graph"  />
+    <img src="https://github-contributor-stats.vercel.app/api?username=Anshdeep-Singh&limit=3&theme=dracula&combine_all_yearly_contributions=true&count_private=true&hide_border=true" height="180" alt="Contribution stat"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anshdeep-Singh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="180" alt="languages graph"  />
 
 </div>
 
